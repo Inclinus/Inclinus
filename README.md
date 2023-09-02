@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Inclinus</h1>
 <h3 align="center">A passionate Java Developer from France</h3>
 
-- 🔭 I’m currently working on **Manutan's Search Engine**
+- 🔭 I’m currently working at **AXA**
 
-- 🌱 I’m currently learning **Quarkus**
+- 🌱 I’m currently learning to develop a compiler
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
